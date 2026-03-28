@@ -34,6 +34,7 @@ frontend/.idea/
 frontend/*.iml
 *.g.dart
 *.freezed.dart
+flutter/
 
 # ── Docker volumes / data ─────────────────────────────────────────────────────
 postgres_data/
