@@ -1,4 +1,4 @@
-# MIND FORGE — AI Assisted Learning Platform
+# MIND FORGE — AI Assisted Learning Platform for students
 
 Welcome to the **MIND FORGE** repository! MIND FORGE is an innovative, AI-assisted learning platform built to connect students, teachers, parents, and administrators in a single, cohesive educational ecosystem.
 
